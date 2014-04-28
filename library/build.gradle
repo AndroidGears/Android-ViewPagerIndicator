@@ -14,6 +14,7 @@ repositories {
 apply plugin: 'android-library'
 
 dependencies {
+    compile 'com.android.support:support-v4:+'
 }
 
 android {
